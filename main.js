@@ -1,4 +1,5 @@
 // Import classes here
+
 const Airport = require('../../classes/Airport.js')
 
 function main() {
