@@ -7,7 +7,7 @@ class Airport {
     }
 
     getPlanes() {
-        return this.getPlanes
+        return this.#planes
     }
     addPlane(plane) {
         this.#planes.push(plane)

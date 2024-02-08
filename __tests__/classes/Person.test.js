@@ -1,4 +1,4 @@
-const Person = require('./Person')
+const Person = require('../../classes/Person')
 
 describe('Person', () => {
     let person
